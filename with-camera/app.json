@@ -19,11 +19,11 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.lakshayakula.billpal",
+      "bundleIdentifier": "com.lakshayakula.camera-example",
       "buildNumber": "1.0.1"
     },
     "android": {
-      "package": "com.lakshayakula.billpal",
+      "package": "com.lakshayakula.camera-example",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
