@@ -8,6 +8,17 @@ import {
 import { Camera } from "expo-camera";
 import CameraPermissionsWrapper from './CameraPermissionsWrapper';
 
+// export default function App() {
+//   console.log("Hi")
+//   return (
+//     <View>
+//     <Text> Hello </Text>
+//     <Text> Hello </Text>
+//     <Text> Hello </Text>
+//     </View>
+//   );
+// }
+
 export default function App() {
   const [type, setType] = useState(Camera.Constants.Type.back);
   const [lastPhotoURI, setLastPhotoURI] = useState(null);
