@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "camera-example",
+    "slug": "camera-example",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "owner": "lakshayakula",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lakshayakula.billpal",
+      "buildNumber": "1.0.1"
+    },
+    "android": {
+      "package": "com.lakshayakula.billpal",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
