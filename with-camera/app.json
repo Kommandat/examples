@@ -8,7 +8,7 @@
     "owner": "lakshayakula",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "contain"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
